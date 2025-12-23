@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @aaryantiw
-- 👀 I’m interested in problem solving, having technical discussions etc. 
-- 🌱 I’m currently learning golang, microservices and Japanese 😛
-- 📫 Reach me via email, linkedin or instagram. 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: will update this soon 
+hey, this is Aaryan
+feel free to talk to me, I'm interested in emerging tech, sports, musical instruments, learning languages...
 
 <!---
 aaryantiw/aaryantiw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
